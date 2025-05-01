@@ -1,4 +1,3 @@
-![alt text](nyu-logo.png)
 # Reducing Customer Churn in Retail with Personalized Incentives
 
 ### Big Data (CSGY-6513-C) | Fall 2024
